@@ -1,0 +1,22 @@
+[
+  {
+    name: "Chun li",
+    description: "kinsece malo zuto",
+    social: "https://www.facebook.com/"
+  },
+  {
+    name: "Hushc li",
+    description: "kinsece malo zuto",
+    social: "https://rs.linkedin.com/"
+  },
+  {
+    name: "Pushc li",
+    description: "kinsece malo zuto",
+    social: "https://www.pinterest.com"
+  },
+  {
+    name: "Zushc li",
+    description: "kinsece malo zuto",
+    social: "https://twitter.com/"
+  }
+]
