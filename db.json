@@ -1,13 +1,8 @@
 {
 "data-popup" :[
- {    "name": "Chun li",    "description": "kinsece malo zuto",    "social": "https://www.facebook.com/"  },
- {    "name": "Hushc li",    "description": "kinsece malo zuto",    "social": "https://rs.linkedin.com/"  }, 
- {    "name": "Pushc li",    "description": "kinsece malo zuto",    "social": "https://www.pinterest.com"  }, 
- {    "name": "Zushc li",    "description": "kinsece malo zuto",    "social": "https://twitter.com/"  }
-],
-"popup-images": [
-    {
-      "url": "https://via.placeholder.com/150"
-    }
-  ]
+ {    "name": "Chun li",    "description": "kinsece malo zuto",    "social": "https://www.facebook.com/",   "url": "https://via.placeholder.com/150" },
+ {    "name": "Hushc li",    "description": "kinsece malo zuto",    "social": "https://rs.linkedin.com/",   "url": "https://via.placeholder.com/150"  }, 
+ {    "name": "Pushc li",    "description": "kinsece malo zuto",    "social": "https://www.pinterest.com",   "url": "https://via.placeholder.com/150"  }, 
+ {    "name": "Zushc li",    "description": "kinsece malo zuto",    "social": "https://twitter.com/",        "url": "https://via.placeholder.com/150"  }
+]
 }
